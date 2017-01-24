@@ -1,0 +1,12 @@
+{
+	"name": "dww",
+	"authors": [
+		"Akihiro Shoji"
+	],
+	"dependencies": {
+		"vibe-d": "~>0.7.30"
+	},
+	"description": "A minimal HTTP Server for static files, inspired by https://github.com/pocke/www",
+	"copyright": "Copyright (C) 2017, Akihiro Shoji",
+	"license": "MIT"
+}
